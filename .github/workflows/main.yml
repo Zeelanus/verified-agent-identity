@@ -8,7 +8,7 @@ on:
         required: true
         default: 'zeelanus'
       agent_description:
-        description: 'lokie'
+        description: 'zeelanus'
         required: true
         default: 'zeelanus AI Agent'
 
